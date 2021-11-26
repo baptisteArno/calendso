@@ -9,5 +9,9 @@
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#292929",
     "titleBar.inactiveBackground": "#888888"
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "lib/core/i18n",
+    "public/static/locales"
+  ]
 }
